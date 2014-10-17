@@ -1,0 +1,21 @@
+       OS/2 Upload Information Template for ftp-os2.nmsu.edu
+
+Archive Name: xlibos2.zip
+Program Description: Full screen VGA Mode X library. Way cool....  :-)
+Operating System: OS/2 2.1, OS/2 2.0, OS/2 2.x
+Program Source: g_blackl@kai.ee.cit.ac.nz
+
+
+PLEASE REPLACE THE VERSION I UPLOADED THE OTHER DAY...!!!!!!!!!!
+IT HAD AN ERROR IN A HEADER FILE. SORRY   B-)						     
+
+This is a 32bit (mostly) demo of full screen VGA stuff. Contains most
+of it source, and simple demo of its use. Specifically for games
+programming under OS/2 2.x. Really fast. 
+
+
+Your name: Graeme Blackley
+Your email address:g_blackl@kai.ee.cit.ac.nz
+
+Proposed directory for placement: /os2/2.x/programming
+

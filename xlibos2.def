@@ -1,0 +1,11 @@
+PROTMODE
+
+SEGMENTS
+  R2SEG CLASS 'CODE' IOPL
+
+EXPORTS
+  inp 1
+  inpw 1
+  outp 2
+  outpw 2
+
